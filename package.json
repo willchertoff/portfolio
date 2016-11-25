@@ -1,5 +1,5 @@
 {
-  "name": "ui-scaffold",
+  "name": "portfolio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:andrewngu/ui-scaffold.git"
+    "url": "https://github.com/willchertoff/portfolio"
   },
   "author": "",
   "license": "ISC",
