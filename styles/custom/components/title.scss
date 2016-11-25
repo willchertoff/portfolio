@@ -1,0 +1,17 @@
+.title-container {
+  position: relative;
+  height: 80%;
+  white-space: nowrap;
+  .inner-wrap {
+    @include verticalCenter;
+    padding-left: 3.145em;
+  }
+  color: #2A2A2A;
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  h1 {
+    font-size: 70px;
+  }
+}

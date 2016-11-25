@@ -1,0 +1,20 @@
+.working-on-container {
+  background-color: #F3F3F3;
+  padding: 40px 0;
+  h3 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #2A2A2A;
+  }
+}
+
+.project-item-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2em 0;
+  a {
+    font-size: 22px;
+    text-decoration: none;
+  }
+}
